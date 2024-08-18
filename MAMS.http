@@ -1,0 +1,6 @@
+@MAMS_HostAddress = http://localhost:5241
+
+GET {{MAMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
